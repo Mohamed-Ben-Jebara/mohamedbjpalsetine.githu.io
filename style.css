@@ -1,0 +1,28 @@
+body {
+  background-color: whitesmoke;
+}
+h1 {
+  text-align: center;
+  color: red;
+}
+h2 {
+  color: green;
+}
+h3 {
+  color: brown;
+}
+h4 {
+  color: lightcoral;
+}
+nav {
+  background-color: green;
+  padding: 1em;
+}
+nav a {
+  color: black;
+  margin-right: auto;
+  padding: 1em;
+}
+nav a:hover {
+  background-color: red;
+}
